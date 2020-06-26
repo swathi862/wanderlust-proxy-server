@@ -1,0 +1,24 @@
+{
+  "name": "roadtrip-proxy-server",
+  "version": "1.0.0",
+  "description": "Proxy server for capstone application",
+  "main": "server.js",
+  "dependencies": {
+    "express": "^4.17.1",
+    "request": "^2.88.2"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "(https://github.com/swathi862/roadtrip-proxy-server.git)"
+  },
+  "author": "Swathi Mukkamala <swathikmukkamala@gmail.com>",
+  "license": "ISC",
+  "engines": {
+    "node": "6.5.0"
+  }
+}
